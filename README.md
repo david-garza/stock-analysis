@@ -21,8 +21,8 @@ The typical run time using the original code was about 1.3 seconds. The refactor
 The typical run time using the original code was about 1.2 seconds. The refactored code is about 0.2 seconds
 
 ### Screen Shots of Refactored Code Performance
-![2017 Run Time](/resources/VBA_Challenge_2017.png)
-![2018 Run Time](/resources/VBA_Challenge_2018.png)
+![2017 Run Time](./Resources/VBA_Challenge_2017.png)
+![2018 Run Time](./Resources/VBA_Challenge_2018.png)
 ## Summary
 ### What are the advantages or disadvantages of refactoring code?
 1. Refactoring code can clean up code and make it easier to read.
